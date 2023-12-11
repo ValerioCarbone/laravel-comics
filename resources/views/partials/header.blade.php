@@ -29,4 +29,5 @@
             </div>
         </div>
     </div>
+    <div class="jumbotron" style="background-image: url( {{ Vite::asset('resources/images/jumbotron.jpg') }} )"></div>
 </header>
